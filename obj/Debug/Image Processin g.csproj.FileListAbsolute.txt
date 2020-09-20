@@ -1,0 +1,17 @@
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image_Processin_g.Properties.Resources.resources
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\Image Processin g.exe.config
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\Image Processin g.exe
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\Image Processin g.pdb
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.exe
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.pdb
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image_Processin_g.Form1.resources
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.dll
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.Imaging.dll
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.Math.dll
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.xml
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.Imaging.xml
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\bin\Debug\AForge.Math.xml
+C:\Users\maxim\Desktop\Class stuff\First Sem C1\Intelligent Systems\My Activities\Image Processin g\obj\Debug\Image Processin g.csproj.CopyComplete
